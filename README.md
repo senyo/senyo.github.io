@@ -1,1 +1,1 @@
-# senyo.github.io
+欢迎
