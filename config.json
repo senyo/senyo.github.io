@@ -5,6 +5,8 @@
     "homeUrl":"https://kuaidian1024.com",
     "avatarUrl":"https://meekdai.com/avatar.svg",
     "faviconUrl":"https://meekdai.com/favicon.svg",
-    "singlePage":[],
-    "GMEEK_VERSION":"last"
+    "singlePage":["link","about"],
+    "onePageListNum":15,
+    "i18n":"CN",
+    "GMEEK_VERSION":"main"
 }
